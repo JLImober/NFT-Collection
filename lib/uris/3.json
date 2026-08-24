@@ -1,0 +1,13 @@
+{
+    "name": "Car NFT 3",
+    "description": "Car collection by JLI - José Imoberdorf",
+    "image": "ipfs://bafkreiev2oeoxlmcelnlub2fxsmikpc7onsj4a2oe6tqolxbsemxku6jvi",
+    "attribute": [
+        {
+            "trait_type": "Cars",
+            "value": "3"
+
+        }
+
+    ]
+} 
